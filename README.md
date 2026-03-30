@@ -95,7 +95,7 @@ This extension is specifically optimized for the DOM structures and frameworks o
 
 4. Click "Load unpacked" and select the folder containing the extension files.
 
-5. Pin the extension to your toolbar and open the Chrome Side Panel to use it.****
+5. Pin the extension to your toolbar and open the Chrome Side Panel to use it.
 
 ### Built with:
 
