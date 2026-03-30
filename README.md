@@ -45,8 +45,6 @@ The program will then take you to Calix Cloud. The account number will be autofi
 
   - ONT & OLT Rx Power Levels (dBm)
 
-  - Latest Speed Test Results (Download/Upload)
-
 - Intelligent Device Deduplication: Finds all devices (ONTs and Residential Gateways) on the page, strips hidden characters, maps models to their specific FSANs, and removes duplicates.
 
 - Downstream Device Tracking: Provides interactive "Online? (Yes/No)" dropdowns for secondary hardware (like the GS4220E or GM2037) directly in the side panel, preserving selections in local storage.
