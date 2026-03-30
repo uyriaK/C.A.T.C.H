@@ -29,14 +29,10 @@ When diagnosing customer network issues, support technicians often have to juggl
 
 The Calix Trouble Ticket Helper acts as an automated companion. It seamlessly monitors the active browser tab to extract critical customer data—such as account numbers, ONT/PON status, Rx/Tx optical power, speed test results, and device lists—and organizes them into a clean side panel. It also bridges the gap between Calix Service Cloud and Calix Operations Cloud by auto-porting the customer's FSAN directly into the historical alarms search field, saving time and reducing human error.
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+[![Product Name Screen Shot][product-screenshot0]](https://example.com)
+[![Product Name Screen Shot][product-screenshot0.5]](https://example.com)
 
-### Built with:
 
-- [![HTML][HTML.com]][HTML-url]
-- [![CSS][CSS.com]][CSS-url]
-- [![JS][JS.com]][JS-url]
- 
 ## ✨ Key Features
 - Real-Time SPA Monitoring: Uses MutationObserver to instantly detect when a user clicks to a new customer profile in Single Page Applications (like iVUE or Calix Angular frameworks) without requiring a page refresh.
 
@@ -58,8 +54,12 @@ The Calix Trouble Ticket Helper acts as an automated companion. It seamlessly mo
 
 - One-Click Ticket Formatting: Compiles all scraped data, manual alarm tallies, and automated alarm definitions into a standardized, easy-to-read text block that is instantly copied to the clipboard for pasting into trouble tickets.
 
-[![Product Name Screen Shot][product-result]](https://example.com)
-
+[![Product Name Screen Shot][product-screenshot1]](https://example.com)
+[![Product Name Screen Shot][product-screenshot2]](https://example.com)
+[![Product Name Screen Shot][product-screenshot3]](https://example.com)
+[![Product Name Screen Shot][product-screenshot4]](https://example.com)
+[![Product Name Screen Shot][product-screenshot5]](https://example.com)
+[![Product Name Screen Shot][product-screenshot6]](https://example.com)
 
 ## 🛠️ Target Applications
 
@@ -82,6 +82,12 @@ This extension is specifically optimized for the DOM structures and frameworks o
 
 5. Pin the extension to your toolbar and open the Chrome Side Panel to use it.****
 
+### Built with:
+
+- [![HTML][HTML.com]][HTML-url]
+- [![CSS][CSS.com]][CSS-url]
+- [![JS][JS.com]][JS-url]
+
 <!-- LICENSE -->
 ## License
 
@@ -103,6 +109,13 @@ Project Link: https://github.com/uyriaK/OpticOps
 [CSS-url]: https://w3schools.com
 [JS.com]: https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E
 [JS-url]: https://www.javascript.com
-[product-screenshot]: images/preview.png
+[product-screenshot0]: images/OpticOpsSS0.png
+[product-screenshot0.5]: images/OpticOpsSS0.5.png
+[product-screenshot1]: images/OpticOpsSS1.png
+[product-screenshot2]: images/OpticOpsSS2.png
+[product-screenshot3]: images/OpticOpsSS3.png
+[product-screenshot4]: images/OpticOpsSS4.png
+[product-screenshot5]: images/OpticOpsSS5.png
+[product-screenshot6]: images/OpticOpsSS6.png
 [product-result]: images/result.png
 
