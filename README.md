@@ -1,4 +1,4 @@
-# Calix-Cloud-Ticket-Builder
+# OpticOps
 
 A Google Chrome Extension designed to streamline troubleshooting, data collection, and ticket creation for ISPs utilizing Calix Support Cloud, Calix Operations Cloud, and iVUE.
 
