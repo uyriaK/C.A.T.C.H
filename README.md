@@ -30,10 +30,10 @@ When diagnosing customer network issues, support technicians often have to juggl
 
 The Calix Trouble Ticket Helper acts as an automated companion. It seamlessly monitors the active browser tab to extract critical customer data—such as account numbers, ONT/PON status, Rx/Tx optical power, speed test results, and device lists—and organizes them into a clean side panel. It also bridges the gap between Calix Service Cloud and Calix Operations Cloud by auto-porting the customer's FSAN directly into the historical alarms search field, saving time and reducing human error.
 
-[![Product Name Screen Shot][product-screenshot0]]
+![Product Name Screen Shot][product-screenshot0]
 The program reads the customer's account number from IVC and stores it within the search bar. Click "GO" on the search bar.
 
-[![Product Name Screen Shot][product-screenshot0.5]]
+![Product Name Screen Shot][product-screenshot0.5]
 The program will then take you to Calix Cloud. The account number will be autofilled into the search bar upon reaching Calix Cloud.
 
 
@@ -56,26 +56,26 @@ The program will then take you to Calix Cloud. The account number will be autofi
 
 - One-Click Ticket Formatting: Compiles all scraped data, manual alarm tallies, and automated alarm definitions into a standardized, easy-to-read text block that is instantly copied to the clipboard for pasting into trouble tickets.
 
-[![Product Name Screen Shot][product-screenshot1]]
+![Product Name Screen Shot][product-screenshot1]
 
 After clicking the magnifying glass next to the search bar and pulling up the corresponding account, click the "System" tab. The program will then pull in all relevant information inlcuding light levels (if applicable) FSANs, and device types. This is also where the user can specify which customer devices are online and which aren't.
 
-[![Product Name Screen Shot][product-screenshot2]]
+![Product Name Screen Shot][product-screenshot2]
 
 
-[![Product Name Screen Shot][product-screenshot3]]
+![Product Name Screen Shot][product-screenshot3]
 
 Clicking the "Add Alarm" button launches Calix Operations Cloud. This where all the historical ONT alarms reside. Upon clicking this button, the user will be directed to the "Historical Reports" section of Operations Cloud. The ONTs FSAN will be autofilled into the "FSAN" field. You may also update the date range in which you would like to search here. The program will update it's range as well.
 
-[![Product Name Screen Shot][product-screenshot4]]
+![Product Name Screen Shot][product-screenshot4]
 
 Within the sidebar there is a dropdown that allows you to select the alarms that you see being reported in Operations Cloud. You select the alarm and then the quantity of the alarm. The program will record a total cound of alarms.
 
-[![Product Name Screen Shot][product-screenshot5]]
+![Product Name Screen Shot][product-screenshot5]
 
 After all of the relevant ticket information is recorded, click "Copy All to Clipboard". The following is the output for the example we've been following.
 
-[![Product Name Screen Shot][product-screenshot6]]
+![Product Name Screen Shot][product-screenshot6]
 
 ## 🛠️ Target Applications
 
