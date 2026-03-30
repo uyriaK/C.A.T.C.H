@@ -2,12 +2,13 @@
 
 A Google Chrome Extension designed to streamline troubleshooting, data collection, and ticket creation for ISPs utilizing Calix Support Cloud, Calix Operations Cloud, and iVUE.
 
-📖 Overview
+📖 **Overview**
+
 When diagnosing customer network issues, support technicians often have to juggle multiple tabs, manually copy-paste FSANs (serial numbers), hunt down optical power levels, and manually tally historical alarms.
 
 The Calix Trouble Ticket Helper acts as an automated companion. It seamlessly monitors the active browser tab to extract critical customer data—such as account numbers, ONT/PON status, Rx/Tx optical power, speed test results, and device lists—and organizes them into a clean side panel. It also bridges the gap between Calix Service Cloud and Calix Operations Cloud by auto-porting the customer's FSAN directly into the historical alarms search field, saving time and reducing human error.
 
-✨ Key Features
+✨ **Key Features**
 - Real-Time SPA Monitoring: Uses MutationObserver to instantly detect when a user clicks to a new customer profile in Single Page Applications (like iVUE or Calix Angular frameworks) without requiring a page refresh.
 
 - Hardware & Speed Data Scraping: Automatically reads and extracts:
@@ -28,7 +29,7 @@ Latest Speed Test Results (Download/Upload)
 
 - One-Click Ticket Formatting: Compiles all scraped data, manual alarm tallies, and automated alarm definitions into a standardized, easy-to-read text block that is instantly copied to the clipboard for pasting into trouble tickets.
 
-🛠️ Target Applications
+🛠️ **Target Applications**
 This extension is specifically optimized for the DOM structures and frameworks of:
 
 - iVUE Connect (Account lookup and extraction)
@@ -37,7 +38,7 @@ This extension is specifically optimized for the DOM structures and frameworks o
 
 - Calix Operations Cloud (Alerts/System) (Alarm history and FSAN auto-filling)
 
-🚀 Installation (Unpacked)
+🚀 **Installation (Unpacked)**
 1. Clone or download this repository to your local machine.
 
 2. Open Google Chrome and navigate to chrome://extensions/.
