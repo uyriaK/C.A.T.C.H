@@ -5,8 +5,8 @@
     <img src="images/Favicon.png" alt="Logo" width="160" height="160">
   </a>
 
-<h3 align="center">C.A.T.C.H.</h3>
-<h1 align="center">Calix Alarm & Ticket Creation Helper</h1>
+<h1 align="center">C.A.T.C.H.</h1>
+<h3 align="center">Calix Alarm & Ticket Creation Helper</h3>
 
 
   <p align="center">
