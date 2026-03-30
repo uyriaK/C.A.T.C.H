@@ -29,6 +29,14 @@ When diagnosing customer network issues, support technicians often have to juggl
 
 The Calix Trouble Ticket Helper acts as an automated companion. It seamlessly monitors the active browser tab to extract critical customer data—such as account numbers, ONT/PON status, Rx/Tx optical power, speed test results, and device lists—and organizes them into a clean side panel. It also bridges the gap between Calix Service Cloud and Calix Operations Cloud by auto-porting the customer's FSAN directly into the historical alarms search field, saving time and reducing human error.
 
+[![Product Name Screen Shot][product-screenshot]](https://example.com)
+
+### Built with:
+
+- [![HTML][HTML.com]][HTML-url]
+- [![CSS][CSS.com]][CSS-url]
+- [![JS][JS.com]][JS-url]
+ 
 ## ✨ Key Features
 - Real-Time SPA Monitoring: Uses MutationObserver to instantly detect when a user clicks to a new customer profile in Single Page Applications (like iVUE or Calix Angular frameworks) without requiring a page refresh.
 
@@ -50,6 +58,9 @@ The Calix Trouble Ticket Helper acts as an automated companion. It seamlessly mo
 
 - One-Click Ticket Formatting: Compiles all scraped data, manual alarm tallies, and automated alarm definitions into a standardized, easy-to-read text block that is instantly copied to the clipboard for pasting into trouble tickets.
 
+[![Product Name Screen Shot][product-result]](https://example.com)
+
+
 ## 🛠️ Target Applications
 
 This extension is specifically optimized for the DOM structures and frameworks of:
@@ -70,3 +81,28 @@ This extension is specifically optimized for the DOM structures and frameworks o
 4. Click "Load unpacked" and select the folder containing the extension files.
 
 5. Pin the extension to your toolbar and open the Chrome Side Panel to use it.****
+
+<!-- LICENSE -->
+## License
+
+Distributed under the MIT License. See `LICENSE.txt` for more information.
+
+
+<!-- CONTACT -->
+## Contact
+
+Jaylen Bryant - jbryant@bulloch.solutions
+
+Project Link: https://github.com/uyriaK/OpticOps
+
+<!-- MARKDOWN LINKS & IMAGES -->
+<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+[HTML.com]:   https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white
+[HTML-url]: https://html.com
+[CSS.com]: https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white
+[CSS-url]: https://w3schools.com
+[JS.com]: https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E
+[JS-url]: https://www.javascript.com
+[product-screenshot]: images/preview.png
+[product-result]: images/result.png
+
