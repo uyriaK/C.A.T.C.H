@@ -5,7 +5,9 @@
     <img src="images/Favicon.png" alt="Logo" width="160" height="160">
   </a>
 
-<h3 align="center">Optic Ops</h3>
+<h3 align="center">C.A.T.C.H.</h3>
+<h1 align="center">Calix Alarm & Ticket Creation Helper</h1>
+
 
   <p align="center">
     NOC Ticket Companion
