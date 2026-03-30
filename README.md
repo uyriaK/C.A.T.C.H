@@ -17,7 +17,7 @@ The Calix Trouble Ticket Helper acts as an automated companion. It seamlessly mo
 
   - ONT & OLT Rx Power Levels (dBm)
 
-Latest Speed Test Results (Download/Upload)
+  - Latest Speed Test Results (Download/Upload)
 
 - Intelligent Device Deduplication: Finds all devices (ONTs and Residential Gateways) on the page, strips hidden characters, maps models to their specific FSANs, and removes duplicates.
 
