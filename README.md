@@ -106,10 +106,6 @@ This extension is specifically optimized for the DOM structures and frameworks o
 - [![JS][JS.com]][JS-url]
 
 <!-- LICENSE -->
-## License
-
-Distributed under the MIT License. See `LICENSE.txt` for more information.
-
 
 <!-- CONTACT -->
 ## Contact
