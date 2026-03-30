@@ -30,6 +30,7 @@ The Calix Trouble Ticket Helper acts as an automated companion. It seamlessly mo
 - One-Click Ticket Formatting: Compiles all scraped data, manual alarm tallies, and automated alarm definitions into a standardized, easy-to-read text block that is instantly copied to the clipboard for pasting into trouble tickets.
 
 🛠️ **Target Applications**
+
 This extension is specifically optimized for the DOM structures and frameworks of:
 
 - iVUE Connect (Account lookup and extraction)
